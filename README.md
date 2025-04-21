@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Naufal Maula, but I play by the name <pre>MCXGenesis</pre>
+I am Naufal Maula, but I play by the name ```MCXGenesis```
 <!--
 **MCXGenesis/MCXGenesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
